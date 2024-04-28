@@ -1,0 +1,8 @@
+Command Line: /package/eda/synopsys/verdi/S-2021.09-SP1-1/platform/LINUXAMD64/bin/elabcom -logdir simv.daidir/kdbresolverLog -simvdaidir simv.daidir -saveLevel -elab simv.daidir/kdb -simflow -KDBRESOLVER -usevcs -top rom_demo_sp -ssz -ssv -ssy +warn=none +disable_message+C00371 +disable_message+C00380+C00381 +disable_message+C00388+C00389
+uname(Linux potr204lnx02.ecn.purdue.edu 3.10.0-1160.108.1.el7.x86_64 #1 SMP Thu Jan 25 16:17:31 UTC 2024 x86_64)
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_modified_25_03_24/work.lib++/rom_demo_sp/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_modified_25_03_24/work.lib++/rom_demo_sp/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_modified_25_03_24/work.lib++/rom_demo_sp/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_modified_25_03_24/work.lib++/rom_demo_sp/hdl) error!!
+*Error* Can not get any top view while flushing resolved db!
+au time 0.326730 0.003054 0.014508 delta 16728064 16728064 total 172208128 172208128

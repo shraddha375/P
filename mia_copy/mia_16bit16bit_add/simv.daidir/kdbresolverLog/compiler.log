@@ -1,0 +1,6 @@
+*design* DebussyLib (btIdent Verdi_S-2021.09-SP1-1)
+
+*Error* Fail to load KDB verilog/spice cell 'DEFAULT	rom_demo_sp	hdl'. Pleae make sure "-kdb=common_elab" is specified in "vlogan" command!
+*Error* Fail to load KDB verilog/spice cell 'DEFAULT	rom_demo_sp	hdl'. Pleae make sure "-kdb=common_elab" is specified in "vlogan" command!
+
+Total	2 error(s),   0 warning(s)

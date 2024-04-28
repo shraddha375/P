@@ -1,0 +1,22 @@
+rc file Version 1.0
+
+[Design]
+COMPILE_PATH=/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package
+VCS_HOME=/package/eda/synopsys/vcs/U-2023.03-SP2-2
+VERDI_HOME=/package/eda/synopsys/verdi/S-2021.09-SP1-1
+SystemC=FALSE
+UUM=TRUE
+KDB=TRUE
+USE_NOVAS_HOME=FALSE
+COSIM=FALSE
+ENV="SYNOPSYS_SIM_SETUP=/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/implementation_directory/ucdb/verdi_synopsys_sim.setup" 
+TOP=cnt_demo_top 
+ELAB=TRUE
+COMMON_ELAB=TRUE
+SIMV_WRAPPER=FALSE
+[Value]
+WREALX=ffff534e50535f58
+WREALZ=ffff534e50535f5a
+
+[CompInfo]
+FLOW_OPTS=-kdb=common_elab 

@@ -1,0 +1,136 @@
+Command Line: /package/eda/synopsys/verdi/S-2021.09-SP1-1/platform/LINUXAMD64/bin/elabcom -logdir simv.daidir/kdbresolverLog -simvdaidir simv.daidir -saveLevel -elab simv.daidir/kdb -simflow -KDBRESOLVER -usevcs -top cnt_demo_top -ssz -ssv -ssy +warn=none +disable_message+C00371 +disable_message+C00380+C00381 +disable_message+C00388+C00389
+uname(Linux potr204lnx02.ecn.purdue.edu 3.10.0-1160.108.1.el7.x86_64 #1 SMP Thu Jan 25 16:17:31 UTC 2024 x86_64)
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/cnt_demo_top/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/cnt_demo_top/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/cnt_demo/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/cnt_demo/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+*Error* Invalid generate construct context 'cnt_demo_top.u_cnt_demo_inst1'!
+*Error* Fail to acquire OZ generate handle 'cnt_demo_top.u_cnt_demo_inst1'
+*Error* Invalid generate construct context 'cnt_demo_top.u_cnt_demo_inst1'!
+*Error* Fail to acquire OZ generate handle 'cnt_demo_top.u_cnt_demo_inst1'
+*Error* Invalid generate construct context 'cnt_demo_top.u_cnt_demo_inst1'!
+*Error* Fail to acquire OZ generate handle 'cnt_demo_top.u_cnt_demo_inst1'
+*Error* Invalid generate construct context 'cnt_demo_top.u_cnt_demo_inst1'!
+*Error* Fail to acquire OZ generate handle 'cnt_demo_top.u_cnt_demo_inst1'
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/cnt_demo/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/cnt_demo/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+Read sm file (/home/ecegrid/a/595m04/shraddha/Personal/new_protocompiler/memory_original_25_03_24/rom_bdoor_demo_package/work.lib++/updown_cntr/hdl) error!!
+*Error* Invalid generate construct context 'cnt_demo_top.u_cnt_demo_inst2'!
+*Error* Fail to acquire OZ generate handle 'cnt_demo_top.u_cnt_demo_inst2'
+*Error* Invalid generate construct context 'cnt_demo_top.u_cnt_demo_inst2'!
+*Error* Fail to acquire OZ generate handle 'cnt_demo_top.u_cnt_demo_inst2'
+*Error* Invalid generate construct context 'cnt_demo_top.u_cnt_demo_inst2'!
+*Error* Fail to acquire OZ generate handle 'cnt_demo_top.u_cnt_demo_inst2'
+*Error* Invalid generate construct context 'cnt_demo_top.u_cnt_demo_inst2'!
+*Error* Fail to acquire OZ generate handle 'cnt_demo_top.u_cnt_demo_inst2'
+*Error* Invalid generate construct context 'cnt_demo_top.u_cnt_demo_inst3'!
+*Error* Fail to acquire OZ generate handle 'cnt_demo_top.u_cnt_demo_inst3'
+*Error* Invalid generate construct context 'cnt_demo_top.u_cnt_demo_inst3'!
+*Error* Fail to acquire OZ generate handle 'cnt_demo_top.u_cnt_demo_inst3'
+*Error* Invalid generate construct context 'cnt_demo_top.u_cnt_demo_inst3'!
+*Error* Fail to acquire OZ generate handle 'cnt_demo_top.u_cnt_demo_inst3'
+*Error* Invalid generate construct context 'cnt_demo_top.u_cnt_demo_inst3'!
+*Error* Fail to acquire OZ generate handle 'cnt_demo_top.u_cnt_demo_inst3'
+*Error* Invalid generate construct context 'cnt_demo_top.u_cnt_demo_inst4'!
+*Error* Fail to acquire OZ generate handle 'cnt_demo_top.u_cnt_demo_inst4'
+*Error* Invalid generate construct context 'cnt_demo_top.u_cnt_demo_inst4'!
+*Error* Fail to acquire OZ generate handle 'cnt_demo_top.u_cnt_demo_inst4'
+*Error* Invalid generate construct context 'cnt_demo_top.u_cnt_demo_inst4'!
+*Error* Fail to acquire OZ generate handle 'cnt_demo_top.u_cnt_demo_inst4'
+*Error* Invalid generate construct context 'cnt_demo_top.u_cnt_demo_inst4'!
+*Error* Fail to acquire OZ generate handle 'cnt_demo_top.u_cnt_demo_inst4'
+*Error* Can not get any top view while flushing resolved db!
+au time 0.270788 0.005600 0.013918 delta 16736256 16736256 total 172216320 172216320

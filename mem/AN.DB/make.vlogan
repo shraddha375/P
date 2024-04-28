@@ -1,0 +1,22 @@
+
+VLOGAN	= vlogan
+VLOGAN_OPT	= -kdb=common_elab -full64 +define+ROM_DEMO -sverilog -sverilog -sverilog +define+XTOR_SVS_PROTOCOMPILER_FLOW -work work -full64
+
+all :		_VCSgd_FBYZpb_1.db \
+	_VCSgd_51l16c_1.db \
+	_VCSgd_FxcS4c_1.db \
+
+
+
+_VCSgd_FBYZpb_1.db :	cnt_demo_top.v 
+		${VLOGAN}  ${VLOGAN_OPT} cnt_demo_top.v
+
+
+_VCSgd_51l16c_1.db :	cnt_demo.v 
+		${VLOGAN}  ${VLOGAN_OPT} cnt_demo.v
+
+
+_VCSgd_FxcS4c_1.db :	rom_demo_sp.v 
+		${VLOGAN}  ${VLOGAN_OPT} rom_demo_sp.v
+
+

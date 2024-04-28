@@ -1,0 +1,3 @@
+Command Line: /package/eda/synopsys/vcs/U-2023.03-SP2-2/linux64/lib/libnz4w_r.so -usevlogan_front -q -common_elab -noLibSave
+uname(Linux potr204lnx02.ecn.purdue.edu 3.10.0-1160.108.1.el7.x86_64 #1 SMP Thu Jan 25 16:17:31 UTC 2024 x86_64)
+au time 0.242887 0.020220 0.016178 delta 12423168 12423168 total 377794560 377794560
